@@ -40,6 +40,6 @@
   ],
 
   "mounts": [
-    "source=cpp-project-template-volume,target=/home/developer/volume,type=volume"
+    "source=cpp-bitwise-operators-volume,target=/home/developer/volume,type=volume"
   ]
 }

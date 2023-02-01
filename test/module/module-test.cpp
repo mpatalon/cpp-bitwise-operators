@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include <cpp-project-template/module/module.h>
+#include <cpp-bitwise-operators/module/module.h>
 
 
 TEST(module_test, TestModuleFunction) {
