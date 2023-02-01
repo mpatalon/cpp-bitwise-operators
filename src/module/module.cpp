@@ -1,5 +1,5 @@
 #include <string>
-#include "cpp-project-template/module/module.h"
+#include "cpp-bitwise-operators/module/module.h"
 
 namespace module {
 

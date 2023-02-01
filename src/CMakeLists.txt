@@ -1,5 +1,5 @@
-add_library(cpp-project-template
+add_library(cpp-bitwise-operators
   module/module.cpp
 )
 
-target_include_directories(cpp-project-template PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/../include)
+target_include_directories(cpp-bitwise-operators PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/../include)
